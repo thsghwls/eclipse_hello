@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("Hello World Java!");
 		System.out.println("Hello Master not hotfix!!");
 		System.out.println("Hello Hotfix is a Hotfix!");
+		System.out.println("Github랑 연결했다.");
 		
 	}
 
