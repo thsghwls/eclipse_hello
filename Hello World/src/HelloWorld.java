@@ -5,8 +5,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World Java!");
 		System.out.println("Hello Remote!");
-		System.out.println("Github랑 연결했다.");
-		
+		System.out.println("Github랑 연결했다.");	
 	}
 
 }
